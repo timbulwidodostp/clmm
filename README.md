@@ -1,6 +1,8 @@
 # clmm
 Cumulative Link Mixed Models Use clmm (ordinal) With (In) R Software
 
+https://www.youtube.com/watch?v=bDsY4c_vGME
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
